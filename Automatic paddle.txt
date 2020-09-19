@@ -1,0 +1,1 @@
+Press C ingame to activate automatic ball following.
